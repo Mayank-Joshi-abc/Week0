@@ -18,10 +18,12 @@ int main()
     if(f = 0)
     {
         printf("\nElement not found");
+        printf("\nNo. of comparisons: ",i+1);
     }
     else
     {
         printf("\nElement found at index :",i);
+        printf("\nNo. of comparisons: ",i+1);
     }
     return 0;
 }
