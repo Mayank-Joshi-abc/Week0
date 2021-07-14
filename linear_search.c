@@ -21,7 +21,7 @@ int main()
     }
     else
     {
-        printf("\nElement found at address :")
+        printf("\nElement found at index :",i);
     }
     return 0;
 }
