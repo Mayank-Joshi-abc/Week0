@@ -23,4 +23,5 @@ int main()
     {
         printf("\nElement found at address :")
     }
+    return 0;
 }
